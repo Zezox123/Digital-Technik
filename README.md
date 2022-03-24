@@ -1,0 +1,2 @@
+# Digital-Technik
+Shift Register
